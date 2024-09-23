@@ -1,0 +1,4 @@
+# Archivo CODEOWNERS avanzado
+
+# Asignar a usuario1 y usuario2 como revisores predeterminados para todo el repositorio
+*                       @dirak3d
