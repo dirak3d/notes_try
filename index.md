@@ -14,4 +14,3 @@ Consideraciones:
     $\mathbf{E} = E_o \hat{\mathbf{y}} cos(kz-\omega t)$.
 
    AJAM
-    um
